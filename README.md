@@ -35,3 +35,26 @@ The repository covers a wide range of topics within Biomedical Informatics and A
 * Electronic health records (EHR) and medical imaging analysis
 * Genomics, proteomics, and bioinformatics applications
 * Ethics, privacy, and legal considerations in Biomedical Informatics and AI
+
+# Folder Structure
+The repository is organized into the following folders:
+
+* Datasets: Contains various publicly available biomedical datasets for research and experimentation.
+* Code: Includes code examples, algorithms, and implementations of AI techniques applied to biomedical problems.
+* Papers: Provides a collection of relevant research papers and articles related to Biomedical Informatics and AI.
+* Tutorials: Contains step-by-step tutorials, guides, and Jupyter notebooks explaining different concepts and techniques.
+* Resources: Includes additional resources such as books, online courses, and links to relevant websites.
+
+# Contributing
+Contributions to this repository are highly welcome. If you have any resources, code, or papers that you would like to add, please follow these steps:
+
+* Fork the repository.
+* Create a new branch for your contribution.
+* Add your content to the appropriate folder.
+* Commit your changes and push the branch to your forked repository.
+* Open a pull request, providing a clear description of the changes you made.
+
+Please ensure that your contributions adhere to the guidelines and best practices of the repository.
+
+# License
+The content in this repository is provided under the MIT License. By contributing to this repository, you agree to license your contributions under the same license.
